@@ -15,8 +15,9 @@ As both a Frontend Developer and QA Tester, I enjoy transforming ideas into reli
 
 ## 🛠 Tech Stack
 
-**Frontend:** HTML • CSS • Bootstrap • React
-**CMS & Design:**WordPress **.**Elementor **.** WooCommerce
+**Frontend:** HTML • CSS • Bootstrap • JavaScript • React
+
+**CMS:** WordPress • Elementor • WooCommerce
 
 **Tools:** Git • GitHub • Jira • VS Code
 
