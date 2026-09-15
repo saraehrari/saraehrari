@@ -1,17 +1,17 @@
-## Hi, I'm Sara👋
+# Hi, I'm Sara 👋
 
-<!--# Hi, I'm Sara 👋
+### Frontend Developer | React Developer | QA Tester
 
 I'm passionate about building clean, responsive, and user-friendly web applications.
 
 ---
 
- 🌱 Currently Learning
+## 🌱 Currently Learning
 - React.js
-- JavaScript 
+- JavaScript (ES6+)
 - Next.js
 
- 🛠 Tech Stack
+## 🛠 Tech Stack
 - HTML
 - CSS
 - Bootstrap
@@ -19,14 +19,10 @@ I'm passionate about building clean, responsive, and user-friendly web applicati
 - Git & GitHub
 - Jira
 
-- 🚀 Featured Projects
+## 🚀 Featured Projects
 - 🎬 Movie Search
 - 📚 Book Finder
 - 👨‍🎓 Student Manager
 
- 📫 Contact
+## 📫 Contact
 Email: sarahatamy09@gmail.com
-Frontend Developer | React Developer | QA Tester
-
-
-- 
