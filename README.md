@@ -1,10 +1,14 @@
 
-Hi there, I'm Sara 👋
 
-✨ Frontend Engineer• QA Tester ✨
 
-Crafting clean code & meaningful digital experiences.
+# Hi, I'm Sara 👋
 
+### Frontend Engineer • QA Tester
+
+I’m passionate about creating elegant, responsive, and user-centered web applications.  
+As both a Frontend Developer and QA Tester, I enjoy transforming ideas into reliable digital experiences through clean code and thoughtful testing.
+
+---
 
 
 🌸 About Me
@@ -17,7 +21,12 @@ Crafting clean code & meaningful digital experiences.
 
 🎯 Goal: Becoming a professional Frontend Engineer
 
----
+
+## 🌱 Currently Learning
+
+- React.js & Next.js
+- Modern JavaScript (ES6+)
+- TypeScript
 
 ## 🛠 Tech Stack
 
@@ -26,27 +35,20 @@ Crafting clean code & meaningful digital experiences.
 **CMS:** WordPress • Elementor • WooCommerce
 
 **Tools:** Git • GitHub • Jira • Postman • VS Code
-🚀 Featured Projects
 
+## 🚀 Featured Projects
 
-🎬 Movie Search
+- 🎬 Movie Search
+- 📚 Book Finder
+- 👨‍🎓 Student Manager
+- ✅ Todo App
 
-📚 Book Finder
-
-👩‍🎓 Student Manager
-
-✅ Todo App
-
----
-
-📫 Connect With Me
+## 📫 Connect with Me
 
 - 📧 Email: sarahatamy09@gmail.com
-- 💻 GitHub: @saraehrari
+- 💻 GitHub: github.com/saraehrari
 
 
 ---
 
-<div align="center">🌷 Small steps • Big dreams • Keep growing
-
-</div>
+> *“Small steps, consistent effort, and clean code create extraordinary careers.”* ✨
