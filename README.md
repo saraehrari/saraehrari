@@ -1,20 +1,32 @@
 ## Hi, I'm Sara👋
 
-<!--
+<!--# Hi, I'm Sara 👋
+
+I'm passionate about building clean, responsive, and user-friendly web applications.
+
+---
+
+ 🌱 Currently Learning
+- React.js
+- JavaScript 
+- Next.js
+
+ 🛠 Tech Stack
+- HTML
+- CSS
+- Bootstrap
+- React
+- Git & GitHub
+- Jira
+
+- 🚀 Featured Projects
+- 🎬 Movie Search
+- 📚 Book Finder
+- 👨‍🎓 Student Manager
+
+ 📫 Contact
+Email: sarahatamy09@gmail.com
 Frontend Developer | React Developer | QA Tester
 
-I'm a passionate frontend developer who enjoys building clean, responsive, and user-friendly web applications. Alongside development, I work as a QA Tester, focusing on improving product quality through testing and bug reporting.
 
-**saraehrari/saraehrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on  React Project & QA Testing...
-- 🌱 I’m currently learning React  React, Next.js, & JavaScript...
-- 👯 I’m looking to collaborate on Frontend Projects...
-- 🤔 I’m looking for help with improving my skills in React, Next.js & JavaScript....
-- 💬 Ask me about React, GitHub & QA Testing...
-- 📫 How to reach me:sarahatamy09@gmail.com ...
-- 😄 Pronouns: .She / her..
-- ⚡ Fun fact: I love turning ideas into clean web apps....
--->
+- 
