@@ -1,28 +1,36 @@
 # Hi, I'm Sara 👋
 
-### Frontend Developer | React Developer | QA Tester
+### Frontend Engineer • QA Tester
 
-I'm passionate about building clean, responsive, and user-friendly web applications.
+I’m passionate about creating elegant, responsive, and user-centered web applications.  
+As both a Frontend Developer and QA Tester, I enjoy transforming ideas into reliable digital experiences through clean code and thoughtful testing.
 
----
 
 ## 🌱 Currently Learning
-- React.js
-- JavaScript (ES6+)
-- Next.js
+
+- React.js & Next.js
+- Modern JavaScript (ES6+)
+- TypeScript
+  
 
 ## 🛠 Tech Stack
-- HTML
-- CSS
-- Bootstrap
-- React
-- Git & GitHub
-- Jira
+
+**Frontend:** HTML • CSS • Bootstrap • React
+**CMS & Design:**WordPress **.**Elementor **.** WooCommerce
+
+**Tools:** Git • GitHub • Jira • VS Code
 
 ## 🚀 Featured Projects
+
 - 🎬 Movie Search
 - 📚 Book Finder
 - 👨‍🎓 Student Manager
+- ✅ Todo App
 
-## 📫 Contact
-Email: sarahatamy09@gmail.com
+## 📫 Connect with Me
+
+- 📧 Email: sarahatamy09@gmail.com
+- 💻 GitHub: github.com/saraehrari
+  
+
+> *“Small steps, consistent effort, and clean code create extraordinary careers.”* ✨
