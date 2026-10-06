@@ -46,7 +46,8 @@ As both a Frontend Developer and QA Tester, I enjoy transforming ideas into reli
 ## 📫 Connect with Me
 
 - 📧 Email: sarahatamy09@gmail.com
-- 💻 GitHub: github.com/saraehrari
+- 🔗 http://www.linkedin.com/in/sara-ehrari
+- 🧿 https://x.com/SHatamy9109
 
 
 ---
