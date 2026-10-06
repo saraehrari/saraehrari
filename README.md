@@ -3,7 +3,7 @@
 
 # Hi, I'm Sara 👋
 
-### Frontend Engineer • QA Tester
+### Frontend Developer in Progress • QA Tester
 
 I’m passionate about creating elegant, responsive, and user-centered web applications.  
 As both a Frontend Developer and QA Tester, I enjoy transforming ideas into reliable digital experiences through clean code and thoughtful testing.
