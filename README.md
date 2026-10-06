@@ -34,7 +34,7 @@ As both a Frontend Developer and QA Tester, I enjoy transforming ideas into reli
 
 **CMS:** WordPress • Elementor • WooCommerce
 
-**Tools:** Git • GitHub • Jira • Postman • VS Code
+**Tools:** Git • GitHub • Jira • VS Code
 
 ## 🚀 Featured Projects
 
